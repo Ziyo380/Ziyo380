@@ -59,7 +59,7 @@
 
 - 📧 Email: ziyovuddinjamoliddinov380@gmail.com  
 - 📱 Telegram: https://t.me/Ziyovka
-- 💼 LinkedIn: https://linkedin.com/in/Ziyovuddin Jamoliddinov 
+- 💼 LinkedIn: https://linkedin.com/in/Ziyovuddin_Jamoliddinov 
 
 ---
 
