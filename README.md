@@ -55,11 +55,26 @@ public class Ziyo {
 
 ## Featured Project
 
-<table>
-<tr>
-<td width="55%">
+<div align="center">
 
 ### Finance Tracker API + Dashboard
+
+![Java](https://img.shields.io/badge/Backend-Java%20%2B%20Spring%20Boot-14B8A6?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-3178C6?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-JWT-164E63?style=for-the-badge)
+
+</div>
+
+```text
+Finance Tracker
+├── Backend: Spring Boot REST API
+├── Security: JWT authentication
+├── Database: PostgreSQL + Flyway migrations
+├── Modules: Auth, Categories, Transactions, Budgets, Saving Goals
+├── Analytics: Monthly summary, income vs expense, expenses by category
+└── Frontend: React dashboard with charts and forms
+```
 
 A full-stack personal finance tracker built as a portfolio project.
 
@@ -72,16 +87,12 @@ A full-stack personal finance tracker built as a portfolio project.
 - Swagger UI documentation
 - React dashboard connected to the backend
 
-[Open repository](https://github.com/Ziyo380/finance/tree/finance-tracker-fullstack)
+<div align="center">
 
-</td>
-<td width="45%">
+[![Open Repository](https://img.shields.io/badge/Open_Repository-Ziyo380%2Ffinance-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziyo380/finance/tree/finance-tracker-fullstack)
+[![Branch](https://img.shields.io/badge/Branch-finance--tracker--fullstack-0B1320?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Ziyo380/finance/tree/finance-tracker-fullstack)
 
-![Finance repo card](https://github-readme-stats.vercel.app/api/pin/?username=Ziyo380&repo=finance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -89,10 +100,18 @@ A full-stack personal finance tracker built as a portfolio project.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ziyo380&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyo380&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9" alt="Top languages" />
-
 ![GitHub streak](https://streak-stats.demolab.com?user=Ziyo380&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6)
+
+</div>
+
+<div align="center">
+
+| Focus | Current Work |
+| --- | --- |
+| Backend | Spring Boot REST APIs |
+| Security | JWT, Spring Security |
+| Database | PostgreSQL, Flyway |
+| Architecture | Clean layers and scalable services |
 
 </div>
 
